@@ -5,7 +5,8 @@ Overview
 The circuit is a practical implementation for vehicle signaling, ensuring safety and functionality. A potentiometer allows users to adjust the speed of the LED sequence. This project involves breadboard prototyping, PCB design, and fabrication, providing a hands-on experience in electronic circuit development.
 ________________________________________
 Features
-•	Sequential LED Blinking: Simulates the operation of turn signal indicators.
+
+•	Sequential LED Blinking: Simulates the operation of turn signal indicators./n
 •	Adjustable Speed: Controlled by a potentiometer for flexibility.
 •	Versatile Design: Built around the widely-used 555 Timer IC.
 •	PCB Fabrication: Designed and fabricated for a compact and efficient circuit.
