@@ -14,7 +14,6 @@ ________________________________________
 Components
 
 Electronic Components:
-
 •	555 Timer IC
 •	Resistors: 4.7K, 10K, 220R, and others
 •	Capacitors: 100µF
@@ -24,7 +23,6 @@ Electronic Components:
 •	9V Battery
 
 Tools and Materials:
-
 •	Breadboard
 •	FeCl3 for etching
 •	Copper-clad PCB
