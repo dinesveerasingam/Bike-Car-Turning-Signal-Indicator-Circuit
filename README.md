@@ -4,13 +4,13 @@ This repository contains the design, implementation, and documentation for a bik
 Overview
 The circuit is a practical implementation for vehicle signaling, ensuring safety and functionality. A potentiometer allows users to adjust the speed of the LED sequence. This project involves breadboard prototyping, PCB design, and fabrication, providing a hands-on experience in electronic circuit development.
 ________________________________________
-# Features
+Features
 •	Sequential LED Blinking: Simulates the operation of turn signal indicators.
 •	Adjustable Speed: Controlled by a potentiometer for flexibility.
 •	Versatile Design: Built around the widely-used 555 Timer IC.
 •	PCB Fabrication: Designed and fabricated for a compact and efficient circuit.
 ________________________________________
-# Components
+Components
 
 Electronic Components:
 •	555 Timer IC
